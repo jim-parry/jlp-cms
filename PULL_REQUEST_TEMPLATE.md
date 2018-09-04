@@ -17,3 +17,6 @@ Explain what you have changed, and why.
 - If the PR solves an issue, reference it with a suitable verb and the issue number
 (e.g. fixes <hash>12345
 - Unsolicited PRs will be considered, but there is no guarantee of acceptance
+- Pull requests should be from a feature branch in the contributor's fork of the repository
+  to the develop branch of the project repository
+  
